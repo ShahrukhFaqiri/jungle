@@ -1,6 +1,14 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+Users are able to register, and make orders. 
+Admins have the ability to make categories, add products, update the stock, remove products and categories.
+
+1) Product Page:
+ ![Product](https://github.com/ShahrukhFaqiri/jungle/blob/master/docs/1.png)
+
+2) Logged-In user can order:
+ ![Order Page](https://github.com/ShahrukhFaqiri/jungle/blob/master/docs/2.png)
 
 ## Additional Steps for Apple M1 Machines
 
